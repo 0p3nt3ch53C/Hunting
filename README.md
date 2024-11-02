@@ -2,6 +2,8 @@
 
 ## Scope Parsing
 
+### Wordlist Creation
+
 ## Recon and Discovery
 
 ### IOT Search 
