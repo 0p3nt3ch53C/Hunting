@@ -30,13 +30,15 @@
 
 #### Automated
 
-
-
 ##### Passive
 
 [whoxy](https://www.whoxy.com/)
 
 ##### Active
+
+##### Brute Forcing
+
+[aiodnsbrute](https://github.com/blark/aiodnsbrute)
 
 #### Manual
 
@@ -44,7 +46,21 @@
 
 ##### Active
 
+### Browsing
+
+#### Web Screenshots
+
+[webscreenshot](https://github.com/maaaaz/webscreenshot)
+
+#### Vulnerability Scanning
+
+[nuclei](https://github.com/projectdiscovery/nuclei)
+
 ### Wordlist Creation
+
+### Custom Requests
+
+[ffuf](https://github.com/ffuf/ffuf)
 
 
 
