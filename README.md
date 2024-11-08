@@ -154,96 +154,96 @@
 
 ## Other Repo Lists:
 
- Amass
- anew
- anti-burl
- aquatone
- Arjun
- assetfinder
- axiom
- axiom-dockerfiles
- cent
- cero
- chaos-client
- commix
- concurl
- Corsy
- CrackMapExec
- crlfuzz
- dalfox
- dirdar
- DNSCewl
- dnsgen
- dnsrecon
- dns resolvers by trickest
- dnsvalidator
- dnsx
- Docker
- ERLPopper
- exclude-cdn
- feroxbuster
- fff
- findomain
- gau
- gauplus
- getJS
- gf
- Gf-Patterns
- github-endpoints
- github-subdomains
- Go
- gobuster
- google-chrome
- gorgo
- gospider
- gowitness
- gron
- Gxss
- hakrawler
- hakrevdns
- httprobe
- httpx
- interactsh-client
- Interlace
- ipcdn
- jaeles
- kiterunner
- kxss
- leaky-paths
- LinkFinder
- masscan
- massdns
- medusa
- meg
- naabu
- nmap
- nuclei
- OpenRedireX
- ParamSpider
- phantomjs
- proxychains-ng
- puredns
- qsreplace
- responder.py
- RustScan
- s3scanner
- scrying
- SecLists
- shuffledns
- six2dez dns permutations
- sqlmap
- subfinder
- subjack
- subjs
- testssl
- thc-hydra
- tlsx
- trufflehog
- ufw
- unimap
- wafw00f
- waybackurls
- wpscan
+Amass
+anew
+anti-burl
+aquatone
+Arjun
+assetfinder
+axiom
+axiom-dockerfiles
+cent
+cero
+chaos-client
+commix
+concurl
+Corsy
+CrackMapExec
+crlfuzz
+dalfox
+dirdar
+DNSCewl
+dnsgen
+dnsrecon
+dns resolvers by trickest
+dnsvalidator
+dnsx
+Docker
+ERLPopper
+exclude-cdn
+feroxbuster
+fff
+findomain
+gau
+gauplus
+getJS
+gf
+Gf-Patterns
+github-endpoints
+github-subdomains
+Go
+gobuster
+google-chrome
+gorgo
+gospider
+gowitness
+gron
+Gxss
+hakrawler
+hakrevdns
+httprobe
+httpx
+interactsh-client
+Interlace
+ipcdn
+jaeles
+kiterunner
+kxss
+leaky-paths
+LinkFinder
+masscan
+massdns
+medusa
+meg
+naabu
+nmap
+nuclei
+OpenRedireX
+ParamSpider
+phantomjs
+proxychains-ng
+puredns
+qsreplace
+responder.py
+RustScan
+s3scanner
+scrying
+SecLists
+shuffledns
+six2dez dns permutations
+sqlmap
+subfinder
+subjack
+subjs
+testssl
+thc-hydra
+tlsx
+trufflehog
+ufw
+unimap
+wafw00f
+waybackurls
+wpscan
 
 
 ## Subdomains
