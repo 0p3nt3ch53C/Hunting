@@ -38,6 +38,10 @@
 
 ##### Active
 
+###### Brute Force DNS Resolver
+
+[puredns](https://github.com/d3mondev/puredns) (uses [massdns](https://github.com/blechschmidt/massdns))
+
 ###### Checking Content Delivery Network (CDN)
 
 [cdncheck] https://github.com/projectdiscovery/cdncheck
