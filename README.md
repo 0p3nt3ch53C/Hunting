@@ -149,6 +149,7 @@
 [nuclei](https://github.com/projectdiscovery/nuclei)
 
 [nuclei geeknik](https://github.com/geeknik/the-nuclei-templates.git)
++ Subdomains takeover
 
 #### Favicon based IP finder
 
@@ -348,7 +349,6 @@ wpscan
 - Google Analytics ID ([AnalyticsRelationships](https://github.com/Josue87/AnalyticsRelationships))
 - TLS handshake ([tlsx](https://github.com/projectdiscovery/tlsx))
 - Recursive search ([dsieve](https://github.com/trickest/dsieve)).
-- Subdomains takeover ([nuclei](https://github.com/projectdiscovery/nuclei))
 - DNS takeover ([dnstake](https://github.com/pwnesia/dnstake))
 - Cloud checkers ([S3Scanner](https://github.com/sa7mon/S3Scanner) and 
     [cloud_enum](https://github.com/initstring/cloud_enum))
