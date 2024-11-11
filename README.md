@@ -252,3 +252,120 @@ cewl
 
 
 
+Amass
+anew
+anti-burl
+aquatone
+Arjun
+assetfinder
+axiom
+axiom-dockerfiles
+cent
+cero
+chaos-client
+commix
+concurl
+CrackMapExec
+crlfuzz
+dalfox
+dirdar
+DNSCewl
+dnsgen
+dnsrecon
+dns resolvers by trickest
+dnsvalidator
+dnsx
+Docker
+ERLPopper
+exclude-cdn
+feroxbuster
+fff
+findomain
+gauplus
+getJS
+github-endpoints
+github-subdomains
+Go
+gobuster
+google-chrome
+gorgo
+gospider
+gowitness
+gron
+Gxss
+hakrawler
+hakrevdns
+httprobe
+interactsh-client
+Interlace
+ipcdn
+jaeles
+kiterunner
+kxss
+leaky-paths
+LinkFinder
+masscan
+massdns
+medusa
+meg
+naabu
+OpenRedireX
+ParamSpider
+phantomjs
+proxychains-ng
+puredns
+qsreplace
+responder.py
+RustScan
+s3scanner
+scrying
+SecLists
+shuffledns
+six2dez dns permutations
+subfinder
+subjack
+subjs
+thc-hydra
+tlsx
+trufflehog
+ufw
+unimap
+wpscan
+
+
+## Subdomains
+
+- Passive ([subfinder](https://github.com/projectdiscovery/subfinder) and 
+    [github-subdomains](https://github.com/gwen001/github-subdomains))
+- Certificate transparency ([crt](https://github.com/cemulus/crt))
+- NOERROR subdomain discovery ([dnsx](https://github.com/projectdiscovery/dnsx), 
+    more info [here](https://www.securesystems.de/blog/enhancing-subdomain-enumeration-ents-and-noerror/))
+- Permutations ([Gotator](https://github.com/Josue87/gotator), 
+    [ripgen](https://github.com/resyncgg/ripgen) and 
+    [regulator](https://github.com/cramppet/regulator))
+- JS files & Source Code Scraping ([katana](https://github.com/projectdiscovery/katana))
+- DNS Records ([dnsx](https://github.com/projectdiscovery/dnsx))
+- Google Analytics ID ([AnalyticsRelationships](https://github.com/Josue87/AnalyticsRelationships))
+- TLS handshake ([tlsx](https://github.com/projectdiscovery/tlsx))
+- Recursive search ([dsieve](https://github.com/trickest/dsieve)).
+- Subdomains takeover ([nuclei](https://github.com/projectdiscovery/nuclei))
+- DNS takeover ([dnstake](https://github.com/pwnesia/dnstake))
+- Cloud checkers ([S3Scanner](https://github.com/sa7mon/S3Scanner) and 
+    [cloud_enum](https://github.com/initstring/cloud_enum))
+
+
+## Webs
+
+- Url extraction 
+    [katana](https://github.com/projectdiscovery/katana), 
+    [github-endpoints](https://gist.github.com/six2dez/d1d516b606557526e9a78d7dd49cacd3) and 
+    [JSA](https://github.com/w9w/JSA)
+- Javascript analysis ([subjs](https://github.com/lc/subjs), 
+    [JSA](https://github.com/w9w/JSA), 
+    [xnLinkFinder](https://github.com/xnl-h4ck3r/xnLinkFinder), 
+    [getjswords](https://github.com/m4ll0k/BBTz), 
+    [mantra](https://github.com/MrEmpy/mantra), 
+    [jsluice](https://github.com/BishopFox/jsluice))
+
+
+
