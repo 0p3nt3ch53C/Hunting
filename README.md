@@ -334,8 +334,6 @@ unimap
 wpscan
 
 
-## Subdomains
-
 - Passive ([subfinder](https://github.com/projectdiscovery/subfinder) and 
     [github-subdomains](https://github.com/gwen001/github-subdomains))
 - Certificate transparency ([crt](https://github.com/cemulus/crt))
@@ -352,9 +350,6 @@ wpscan
 - DNS takeover ([dnstake](https://github.com/pwnesia/dnstake))
 - Cloud checkers ([S3Scanner](https://github.com/sa7mon/S3Scanner) and 
     [cloud_enum](https://github.com/initstring/cloud_enum))
-
-
-## Webs
 
 - Url extraction 
     [katana](https://github.com/projectdiscovery/katana), 
