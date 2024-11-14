@@ -251,8 +251,6 @@ cewl
 
 [brutespray](https://github.com/x90skysn3k/brutespray)
 
-
-
 Amass
 anew
 anti-burl
