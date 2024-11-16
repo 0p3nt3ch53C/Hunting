@@ -6,9 +6,14 @@
 
 ## Recon and Discovery
 
+### Assets (multiple below)
+
+[amass](https://github.com/owasp-amass/amass)
+
 ### Web Spidering
 
 [katana](https://github.com/projectdiscovery/katana)
+++ JS Files, Source Code Scraping, URL Extracting
 
 ### IOT Search 
 
@@ -62,7 +67,7 @@
 
 [gf-patterns](https://github.com/1ndianl33t/Gf-Patterns)
 
-##### Wayback URL / Domain finder
+##### Wayback URL / URL Extraction / Domain finder
 
 [waymore](https://github.com/xnl-h4ck3r/waymore) (formerly [waybackurls](https://github.com/tomnomnom/waybackurls) and [gau](https://github.com/lc/gau))
 
@@ -159,7 +164,9 @@
 
 [pydictor](https://github.com/LandGrey/pydictor)
 
-cewl
+[cewl](https://github.com/digininja/CeWL)
+
+[cewler](https://github.com/roys/cewler)
 
 ## HTTP Tools / Custom Requests / Brute Forcing
 
@@ -251,7 +258,20 @@ cewl
 
 [brutespray](https://github.com/x90skysn3k/brutespray)
 
-Amass
+### JavaScript Specific
+
+[JSA](https://github.com/w9w/JSA)
+++ URL Extraction
+
+### ???
+
+[ERLPopper](https://github.com/maikthulhu/ERLPopper)
+
+### Depricated
+
+[subjs](https://github.com/lc/subjs)
+
+
 anew
 anti-burl
 aquatone
@@ -274,13 +294,10 @@ dnsrecon
 dns resolvers by trickest
 dnsvalidator
 dnsx
-Docker
-ERLPopper
 exclude-cdn
 feroxbuster
 fff
 findomain
-gauplus
 getJS
 github-endpoints
 github-subdomains
@@ -340,7 +357,6 @@ wpscan
 - Permutations ([Gotator](https://github.com/Josue87/gotator), 
     [ripgen](https://github.com/resyncgg/ripgen) and 
     [regulator](https://github.com/cramppet/regulator))
-- JS files & Source Code Scraping ([katana](https://github.com/projectdiscovery/katana))
 - DNS Records ([dnsx](https://github.com/projectdiscovery/dnsx))
 - Google Analytics ID ([AnalyticsRelationships](https://github.com/Josue87/AnalyticsRelationships))
 - TLS handshake ([tlsx](https://github.com/projectdiscovery/tlsx))
@@ -350,11 +366,8 @@ wpscan
     [cloud_enum](https://github.com/initstring/cloud_enum))
 
 - Url extraction 
-    [katana](https://github.com/projectdiscovery/katana), 
     [github-endpoints](https://gist.github.com/six2dez/d1d516b606557526e9a78d7dd49cacd3) and 
-    [JSA](https://github.com/w9w/JSA)
 - Javascript analysis ([subjs](https://github.com/lc/subjs), 
-    [JSA](https://github.com/w9w/JSA), 
     [xnLinkFinder](https://github.com/xnl-h4ck3r/xnLinkFinder), 
     [getjswords](https://github.com/m4ll0k/BBTz), 
     [mantra](https://github.com/MrEmpy/mantra), 
