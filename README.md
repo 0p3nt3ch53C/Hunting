@@ -65,6 +65,10 @@
 
 [dnstake](https://github.com/pwnesia/dnstake)
 
+####### Reference 
+
+[can-i-take-over-xyz](https://github.com/EdOverflow/can-i-take-over-xyz)
+
 ###### Brute Force DNS Resolver
 
 [puredns](https://github.com/d3mondev/puredns) (uses [massdns](https://github.com/blechschmidt/massdns))
@@ -212,9 +216,15 @@
 
 [Corsy](https://github.com/s0md3v/Corsy)
 
+##### CORS 
+
+[TheftFuzzer](https://github.com/lc/theftfuzzer)
+
 #### CMS Detection
 
 [CMSeeK](https://github.com/Tuhinshubhra/CMSeeK)
+
+[wpscan](https://github.com/wpscanteam/wpscan)
 
 #### HTTP 4XX Errors Testing
 
@@ -319,6 +329,11 @@
 
 [cloud_enum](https://github.com/initstring/cloud_enum)
 
+### Public Archived (outdated)
+
+[subjack](https://github.com/haccer/subjack)
+
+### Additional Tools
 
 anew
 anti-burl
@@ -348,7 +363,6 @@ findomain
 getJS
 github-endpoints
 github-subdomains
-Go
 gobuster
 google-chrome
 gorgo
@@ -368,7 +382,6 @@ kxss
 leaky-paths
 LinkFinder
 masscan
-massdns
 medusa
 meg
 naabu
@@ -376,7 +389,6 @@ OpenRedireX
 ParamSpider
 phantomjs
 proxychains-ng
-puredns
 qsreplace
 responder.py
 RustScan
@@ -385,12 +397,11 @@ scrying
 SecLists
 shuffledns
 six2dez dns permutations
-subfinder
-subjack
-subjs
-thc-hydra
-trufflehog
-ufw
-unimap
-wpscan
+Bruteforceing Passwords - [thc-hydra](https://github.com/vanhauser-thc/thc-hydra)
+Find Secrets in sourcecode - [TruffleHog](https://github.com/trufflesecurity/trufflehog)
+Firewall for ubuntu - [ufw](https://wiki.ubuntu.com/UncomplicatedFirewall)
+nmap alternative - [unimap](https://github.com/Edu4rdSHL/unimap)
+Search Javascript Files for API Keys - [Mantra](https://github.com/brosck/mantra)
+Secrets Scanning by Checkmarx - [2ms](https://github.com/checkmarx/2ms/)
+
 
