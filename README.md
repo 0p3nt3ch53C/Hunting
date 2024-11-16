@@ -2,8 +2,6 @@
 
 ## Scope Parsing
 
-
-
 ## Recon and Discovery
 
 ### Assets (multiple below)
@@ -35,13 +33,37 @@
 
 [crt.sh](https://crt.sh/)
 
+[crt](https://github.com/cemulus/crt)
+
+#### TLS Cipher Discovery
+
+[tlsx](https://github.com/projectdiscovery/tlsx)
+
 ### DNS
 
 #### Automated
 
 ##### Passive
 
+[subfinder](https://github.com/projectdiscovery/subfinder)
+
+[AnalyticsRelationships](https://github.com/Josue87/AnalyticsRelationships)
+
+###### Multi-level DNS Discovery
+
+[dsieve](https://github.com/trickest/dsieve)
+
+###### Github Scanner for Subdomains
+
+[github-subdomains](https://github.com/gwen001/github-subdomains)
+
 ##### Active
+
+[dnsx](https://github.com/projectdiscovery/dnsx)
+
+###### Subdomain Takeover Finder
+
+[dnstake](https://github.com/pwnesia/dnstake)
 
 ###### Brute Force DNS Resolver
 
@@ -70,6 +92,8 @@
 ##### Wayback URL / URL Extraction / Domain finder
 
 [waymore](https://github.com/xnl-h4ck3r/waymore) (formerly [waybackurls](https://github.com/tomnomnom/waybackurls) and [gau](https://github.com/lc/gau))
+
+[xnLinkFinder](https://github.com/xnl-h4ck3r/xnLinkFinder)
 
 ##### URL List Decluttering
 
@@ -168,6 +192,14 @@
 
 [cewler](https://github.com/roys/cewler)
 
+#### DNS Specific
+
+[gotator](https://github.com/Josue87/gotator)
+
+[ripgen](https://github.com/resyncgg/ripgen)
+
+[regulator](https://github.com/cramppet/regulator)
+
 ## HTTP Tools / Custom Requests / Brute Forcing
 
 ### Web Tools
@@ -263,6 +295,16 @@
 [JSA](https://github.com/w9w/JSA)
 ++ URL Extraction
 
+[getjswords](https://github.com/m4ll0k/BBTz)
+
+#### Url Extracting
+
+[jsluice](https://github.com/BishopFox/jsluice)
+
+### Github Endpoints
+
+[github-endpoints](https://gist.github.com/six2dez/d1d516b606557526e9a78d7dd49cacd3)
+
 ### ???
 
 [ERLPopper](https://github.com/maikthulhu/ERLPopper)
@@ -270,6 +312,12 @@
 ### Depricated
 
 [subjs](https://github.com/lc/subjs)
+
+### Cloud / S3 Bucket Scanner
+
+[S3Scanner](https://github.com/sa7mon/S3Scanner)
+
+[cloud_enum](https://github.com/initstring/cloud_enum)
 
 
 anew
@@ -293,7 +341,6 @@ dnsgen
 dnsrecon
 dns resolvers by trickest
 dnsvalidator
-dnsx
 exclude-cdn
 feroxbuster
 fff
@@ -342,36 +389,8 @@ subfinder
 subjack
 subjs
 thc-hydra
-tlsx
 trufflehog
 ufw
 unimap
 wpscan
-
-
-- Passive ([subfinder](https://github.com/projectdiscovery/subfinder) and 
-    [github-subdomains](https://github.com/gwen001/github-subdomains))
-- Certificate transparency ([crt](https://github.com/cemulus/crt))
-- NOERROR subdomain discovery ([dnsx](https://github.com/projectdiscovery/dnsx), 
-    more info [here](https://www.securesystems.de/blog/enhancing-subdomain-enumeration-ents-and-noerror/))
-- Permutations ([Gotator](https://github.com/Josue87/gotator), 
-    [ripgen](https://github.com/resyncgg/ripgen) and 
-    [regulator](https://github.com/cramppet/regulator))
-- DNS Records ([dnsx](https://github.com/projectdiscovery/dnsx))
-- Google Analytics ID ([AnalyticsRelationships](https://github.com/Josue87/AnalyticsRelationships))
-- TLS handshake ([tlsx](https://github.com/projectdiscovery/tlsx))
-- Recursive search ([dsieve](https://github.com/trickest/dsieve)).
-- DNS takeover ([dnstake](https://github.com/pwnesia/dnstake))
-- Cloud checkers ([S3Scanner](https://github.com/sa7mon/S3Scanner) and 
-    [cloud_enum](https://github.com/initstring/cloud_enum))
-
-- Url extraction 
-    [github-endpoints](https://gist.github.com/six2dez/d1d516b606557526e9a78d7dd49cacd3) and 
-- Javascript analysis ([subjs](https://github.com/lc/subjs), 
-    [xnLinkFinder](https://github.com/xnl-h4ck3r/xnLinkFinder), 
-    [getjswords](https://github.com/m4ll0k/BBTz), 
-    [mantra](https://github.com/MrEmpy/mantra), 
-    [jsluice](https://github.com/BishopFox/jsluice))
-
-
 
