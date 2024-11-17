@@ -276,7 +276,7 @@
 
 ## Cross Site Scripting (XSS)
 
-[dalfox](https://github.com/hahwul/dalfox)
+[dalfox](https://github.com/hahwul/dalfox) (formerly [gxss](https://github.com/KathanP19/Gxss))
 
 ## Carrage Return Line Feed (CRLF) Fuzzing
 
@@ -336,7 +336,14 @@
 ### Public Archived (outdated)
 
 [subjack](https://github.com/haccer/subjack)
+
 [aquatone](https://github.com/michenriksen/aquatone)
+
+### Attempts to cover everything in one tool (all in one, AIO)
+
+[smartrecon](https://github.com/kh4sh3i/smartrecon)
+
+[osmedeus](https://github.com/j3ssie/osmedeus)
 
 ### Additional Tools
 
@@ -350,25 +357,26 @@ Pentesting - Command Injection - [commix](https://github.com/commixproject/commi
 Concurrent requests in CURL - [concurl](https://github.com/tomnomnom/concurl)
 CrackMapExec
 403 Finder and Brute Forcer - [dirdar](https://github.com/M4DM0e/DirDar)
+HTML parser and santizer testing - [Dom-Explorer](https://github.com/yeswehack/Dom-Explorer)
 Wordlist Generator for DNS - [DNSCewl](https://github.com/codingo/DNSCewl)
 Wordlist Generator for DNS - [dnsgen](https://github.com/AlephNullSK/dnsgen)
 Wordlist Generator for DNS with resolving - [altdns](https://github.com/infosec-au/altdns)
 Multiple DNS Activities - [dnsrecon](https://github.com/darkoperator/dnsrecon)
 Using different dns resolvers by trickest - [publicresolvers](https://github.com/root4loot/publicresolvers)
 dnsvalidator
-exclude-cdn
-feroxbuster
+Remove CDNs from DNS URLs - [exclude-cdn](https://github.com/Cgboal/exclude-cdn)
+Active Content Discovery tool - [feroxbuster](https://github.com/epi052/feroxbuster)
+    ++ [Documentation](https://epi052.github.io/feroxbuster-docs/docs/)
 fff
 findomain
 getJS
 Directory / dns / s3 / gcs / vhost / fuzz / tftp brute force - [gobuster](https://github.com/OJ/gobuster)
 google-chrome
 gorgo
-gospider
-gowitness
-gron
-Gxss
-hakrawler
+Fast Web Spider written in Go - [gospider](https://github.com/jaeles-project/gospider)
+Website Screenshot utility in Go - [gowitness](https://github.com/sensepost/gowitness)
+JSON grepping tool - [gron](https://github.com/tomnomnom/gron)
+GO Web crawler for gathering URL's and js file locations - [hakrawler](https://github.com/hakluke/hakrawler)
 hakrevdns
 httprobe
 interactsh-client
