@@ -8,6 +8,8 @@
 
 [amass](https://github.com/owasp-amass/amass)
 
+[assetfinder](https://github.com/tomnomnom/assetfinder)
+
 ### Web Spidering
 
 [katana](https://github.com/projectdiscovery/katana)
@@ -305,6 +307,8 @@
 [JSA](https://github.com/w9w/JSA)
 ++ URL Extraction
 
+[LinkFinder](https://github.com/GerbenJavado/LinkFinder)
+
 [getjswords](https://github.com/m4ll0k/BBTz)
 
 #### Url Extracting
@@ -332,38 +336,32 @@
 ### Public Archived (outdated)
 
 [subjack](https://github.com/haccer/subjack)
+[aquatone](https://github.com/michenriksen/aquatone)
 
 ### Additional Tools
 
-anew
-anti-burl
-aquatone
-Arjun
-assetfinder
-axiom
-axiom-dockerfiles
-cent
-cero
-chaos-client
-commix
-concurl
+Diff for new items - [anew](https://github.com/tomnomnom/anew)
+Burl (not anti-burl) - [burl](https://github.com/tomnomnom/burl)
+HTTP Parameter Discovery - [arjun](https://github.com/s0md3v/Arjun)
+Community Nuclei Templates - [cent](https://github.com/xm1k3/cent)
+Connect to remote host and scrape certificates - [cero](https://github.com/glebarez/cero)
+Active DNS Finding (requires project discovery API Key) - [chaos-client](https://github.com/projectdiscovery/chaos-client)
+Pentesting - Command Injection - [commix](https://github.com/commixproject/commix)
+Concurrent requests in CURL - [concurl](https://github.com/tomnomnom/concurl)
 CrackMapExec
-crlfuzz
-dalfox
-dirdar
-DNSCewl
-dnsgen
-dnsrecon
-dns resolvers by trickest
+403 Finder and Brute Forcer - [dirdar](https://github.com/M4DM0e/DirDar)
+Wordlist Generator for DNS - [DNSCewl](https://github.com/codingo/DNSCewl)
+Wordlist Generator for DNS - [dnsgen](https://github.com/AlephNullSK/dnsgen)
+Wordlist Generator for DNS with resolving - [altdns](https://github.com/infosec-au/altdns)
+Multiple DNS Activities - [dnsrecon](https://github.com/darkoperator/dnsrecon)
+Using different dns resolvers by trickest - [publicresolvers](https://github.com/root4loot/publicresolvers)
 dnsvalidator
 exclude-cdn
 feroxbuster
 fff
 findomain
 getJS
-github-endpoints
-github-subdomains
-gobuster
+Directory / dns / s3 / gcs / vhost / fuzz / tftp brute force - [gobuster](https://github.com/OJ/gobuster)
 google-chrome
 gorgo
 gospider
@@ -380,7 +378,6 @@ jaeles
 kiterunner
 kxss
 leaky-paths
-LinkFinder
 masscan
 medusa
 meg
@@ -397,6 +394,7 @@ scrying
 SecLists
 shuffledns
 six2dez dns permutations
+[TheFTFuzzer](https://github.com/lc/theftfuzzer)
 Bruteforceing Passwords - [thc-hydra](https://github.com/vanhauser-thc/thc-hydra)
 Find Secrets in sourcecode - [TruffleHog](https://github.com/trufflesecurity/trufflehog)
 Firewall for ubuntu - [ufw](https://wiki.ubuntu.com/UncomplicatedFirewall)
