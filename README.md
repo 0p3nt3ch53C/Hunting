@@ -63,6 +63,8 @@
 
 [dnsx](https://github.com/projectdiscovery/dnsx)
 
+[dnscheck](https://github.com/six2dez/ipcdn) (was: [ipcdn](https://github.com/six2dez/ipcdn))
+
 ###### Subdomain Takeover Finder
 
 [dnstake](https://github.com/pwnesia/dnstake)
@@ -339,75 +341,135 @@
 
 [aquatone](https://github.com/michenriksen/aquatone)
 
+[ipcdn](https://github.com/six2dez/ipcdn)
+
 ### Attempts to cover everything in one tool (all in one, AIO)
 
 [smartrecon](https://github.com/kh4sh3i/smartrecon)
 
 [osmedeus](https://github.com/j3ssie/osmedeus)
 
+### Irrelevant
+
+[proxychains-ng](https://github.com/rofl0r/proxychains-ng)
+
 ### Additional Tools
 
 Diff for new items - [anew](https://github.com/tomnomnom/anew)
+
 Burl (not anti-burl) - [burl](https://github.com/tomnomnom/burl)
+
 HTTP Parameter Discovery - [arjun](https://github.com/s0md3v/Arjun)
+
 Community Nuclei Templates - [cent](https://github.com/xm1k3/cent)
+
 Connect to remote host and scrape certificates - [cero](https://github.com/glebarez/cero)
+
 Active DNS Finding (requires project discovery API Key) - [chaos-client](https://github.com/projectdiscovery/chaos-client)
+
 Pentesting - Command Injection - [commix](https://github.com/commixproject/commix)
+
 Concurrent requests in CURL - [concurl](https://github.com/tomnomnom/concurl)
-CrackMapExec
+
+[CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec)
+ ++ Alternative [NexExec](https://github.com/Pennyw0rth/NetExec)
+
 403 Finder and Brute Forcer - [dirdar](https://github.com/M4DM0e/DirDar)
+
 HTML parser and santizer testing - [Dom-Explorer](https://github.com/yeswehack/Dom-Explorer)
+
 Wordlist Generator for DNS - [DNSCewl](https://github.com/codingo/DNSCewl)
+
 Wordlist Generator for DNS - [dnsgen](https://github.com/AlephNullSK/dnsgen)
+
 Wordlist Generator for DNS with resolving - [altdns](https://github.com/infosec-au/altdns)
+
 Multiple DNS Activities - [dnsrecon](https://github.com/darkoperator/dnsrecon)
+
 Using different dns resolvers by trickest - [publicresolvers](https://github.com/root4loot/publicresolvers)
-dnsvalidator
+
+[dnsvalidator](https://github.com/vortexau/dnsvalidator)
+
+Another [dnsvalidator](https://github.com/frost19k/DNSValidator)
+
 Remove CDNs from DNS URLs - [exclude-cdn](https://github.com/Cgboal/exclude-cdn)
+
 Active Content Discovery tool - [feroxbuster](https://github.com/epi052/feroxbuster)
     ++ [Documentation](https://epi052.github.io/feroxbuster-docs/docs/)
-fff
-findomain
-getJS
-Directory / dns / s3 / gcs / vhost / fuzz / tftp brute force - [gobuster](https://github.com/OJ/gobuster)
-google-chrome
-gorgo
-Fast Web Spider written in Go - [gospider](https://github.com/jaeles-project/gospider)
-Website Screenshot utility in Go - [gowitness](https://github.com/sensepost/gowitness)
-JSON grepping tool - [gron](https://github.com/tomnomnom/gron)
-GO Web crawler for gathering URL's and js file locations - [hakrawler](https://github.com/hakluke/hakrawler)
-hakrevdns
-httprobe
-interactsh-client
-Interlace
-ipcdn
-jaeles
-kiterunner
-kxss
-leaky-paths
-masscan
-medusa
-meg
-naabu
-OpenRedireX
-ParamSpider
-phantomjs
-proxychains-ng
-qsreplace
-responder.py
-RustScan
-s3scanner
-scrying
-SecLists
-shuffledns
-six2dez dns permutations
-[TheFTFuzzer](https://github.com/lc/theftfuzzer)
-Bruteforceing Passwords - [thc-hydra](https://github.com/vanhauser-thc/thc-hydra)
-Find Secrets in sourcecode - [TruffleHog](https://github.com/trufflesecurity/trufflehog)
-Firewall for ubuntu - [ufw](https://wiki.ubuntu.com/UncomplicatedFirewall)
-nmap alternative - [unimap](https://github.com/Edu4rdSHL/unimap)
-Search Javascript Files for API Keys - [Mantra](https://github.com/brosck/mantra)
-Secrets Scanning by Checkmarx - [2ms](https://github.com/checkmarx/2ms/)
 
+[fff](https://github.com/tomnomnom/fff)
+
+[findomain](https://github.com/Findomain/Findomain)
+
+[getJS](https://github.com/003random/getJS)
+
+Directory / dns / s3 / gcs / vhost / fuzz / tftp brute force - [gobuster](https://github.com/OJ/gobuster)
+
+[gorgo](https://github.com/pry0cc/gorgo)
+
+Fast Web Spider written in Go - [gospider](https://github.com/jaeles-project/gospider)
+
+Website Screenshot utility in Go - [gowitness](https://github.com/sensepost/gowitness)
+
+JSON grepping tool - [gron](https://github.com/tomnomnom/gron)
+
+GO Web crawler for gathering URL's and js file locations - [hakrawler](https://github.com/hakluke/hakrawler)
+
+[hakrevdns](https://github.com/hakluke/hakrevdns)
+
+[httprobe](https://github.com/tomnomnom/httprobe)
+
+[interactsh-web](https://github.com/projectdiscovery/interactsh-web)
+
+[Interlace](https://github.com/codingo/Interlace)
+
+[jaeles](https://github.com/jaeles-project/jaeles)
+
+[kiterunner](https://github.com/assetnote/kiterunner)
+
+[kxss](https://github.com/tomnomnom/hacks/tree/6fd7870f20ab4ea96781f20d74fff714e0354046/kxss)
+
+[leaky-paths](https://github.com/ayoubfathi/leaky-paths)
+
+Massive IP Portscanner - [masscan](https://github.com/robertdavidgraham/masscan)
+
+[medusa](https://github.com/jmk-foofus/medusa)
+
+Fetching lots of URL's - [meg](https://github.com/tomnomnom/meg)
+
+Go NMAP Alternative - [naabu](https://github.com/projectdiscovery/naabu)
+
+A fuzzer for detecting open redirect vulns - [OpenRedireX](https://github.com/devanshbatham/OpenRedireX)
+
+Mining URLs from dark corners of Web Archives - [ParamSpider](https://github.com/devanshbatham/ParamSpider)
+
+[qsreplace](https://github.com/tomnomnom/qsreplace)
+
+[responder.py](https://github.com/lgandx/Responder)
+
+[RustScan](https://github.com/RustScan/RustScan)
+
+[scrying](https://github.com/nccgroup/scrying)
+
+[assetnote-wordlists](https://wordlists.assetnote.io/)
+
+[SecLists](https://github.com/danielmiessler/SecLists)
+
+[shuffledns](https://github.com/projectdiscovery/shuffledns)
+
+[reconftw](https://github.com/six2dez/reconftw)
+
+[TheFTFuzzer](https://github.com/lc/theftfuzzer)
+
+Bruteforceing Passwords - [thc-hydra](https://github.com/vanhauser-thc/thc-hydra)
+
+Find Secrets in sourcecode - [TruffleHog](https://github.com/trufflesecurity/trufflehog)
+
+Firewall for ubuntu - [ufw](https://wiki.ubuntu.com/UncomplicatedFirewall)
+
+nmap alternative - [unimap](https://github.com/Edu4rdSHL/unimap)
+
+Search Javascript Files for API Keys - [Mantra](https://github.com/brosck/mantra)
+
+Secrets Scanning by Checkmarx - [2ms](https://github.com/checkmarx/2ms/)
 
