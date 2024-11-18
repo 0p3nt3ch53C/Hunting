@@ -121,6 +121,8 @@
 
 ##### Active
 
+[hakrevdns](https://github.com/hakluke/hakrevdns)
+
 ###### Web Application Firewall Fingerprinting
 
 [wafw00f](https://github.com/EnableSecurity/wafw00f)
@@ -201,6 +203,12 @@
 [cewl](https://github.com/digininja/CeWL)
 
 [cewler](https://github.com/roys/cewler)
+
+##### Precreated Wordlists
+
+[assetnote-wordlists](https://wordlists.assetnote.io/)
+
+[SecLists](https://github.com/danielmiessler/SecLists)
 
 #### DNS Specific
 
@@ -351,6 +359,8 @@
 
 [osmedeus](https://github.com/j3ssie/osmedeus)
 
+All in one tool for XSS, Open Redirects, SSRF, CRLF, LFI, SQLi, SSL tests, SSTI, DNS zone transfers - [reconftw](https://github.com/six2dez/reconftw)
+
 ### Irrelevant
 
 [proxychains-ng](https://github.com/rofl0r/proxychains-ng)
@@ -419,8 +429,6 @@ JSON grepping tool - [gron](https://github.com/tomnomnom/gron)
 
 GO Web crawler for gathering URL's and js file locations - [hakrawler](https://github.com/hakluke/hakrawler)
 
-[hakrevdns](https://github.com/hakluke/hakrevdns)
-
 [httprobe](https://github.com/tomnomnom/httprobe)
 
 [interactsh-web](https://github.com/projectdiscovery/interactsh-web)
@@ -455,13 +463,7 @@ Mining URLs from dark corners of Web Archives - [ParamSpider](https://github.com
 
 [scrying](https://github.com/nccgroup/scrying)
 
-[assetnote-wordlists](https://wordlists.assetnote.io/)
-
-[SecLists](https://github.com/danielmiessler/SecLists)
-
 [shuffledns](https://github.com/projectdiscovery/shuffledns)
-
-[reconftw](https://github.com/six2dez/reconftw)
 
 [TheFTFuzzer](https://github.com/lc/theftfuzzer)
 
