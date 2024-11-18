@@ -479,3 +479,7 @@ Search Javascript Files for API Keys - [Mantra](https://github.com/brosck/mantra
 
 Secrets Scanning by Checkmarx - [2ms](https://github.com/checkmarx/2ms/)
 
+# OSINT
+
+
+
