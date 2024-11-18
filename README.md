@@ -65,6 +65,8 @@
 
 [dnscheck](https://github.com/six2dez/ipcdn) (was: [ipcdn](https://github.com/six2dez/ipcdn))
 
+[Sublist3r](https://github.com/aboul3la/Sublist3r)
+
 ###### Subdomain Takeover Finder
 
 [dnstake](https://github.com/pwnesia/dnstake)
@@ -353,9 +355,11 @@
 
 [proxychains-ng](https://github.com/rofl0r/proxychains-ng)
 
-### Additional Tools
+### Formatting
 
 Diff for new items - [anew](https://github.com/tomnomnom/anew)
+
+### Additional Tools
 
 Burl (not anti-burl) - [burl](https://github.com/tomnomnom/burl)
 
@@ -388,20 +392,20 @@ Multiple DNS Activities - [dnsrecon](https://github.com/darkoperator/dnsrecon)
 
 Using different dns resolvers by trickest - [publicresolvers](https://github.com/root4loot/publicresolvers)
 
-[dnsvalidator](https://github.com/vortexau/dnsvalidator)
+Validating DNS with resolvers - [dnsvalidator](https://github.com/vortexau/dnsvalidator)
 
-Another [dnsvalidator](https://github.com/frost19k/DNSValidator)
+Another tool for validating DNS Resolvers [dnsvalidator2](https://github.com/frost19k/DNSValidator)
 
 Remove CDNs from DNS URLs - [exclude-cdn](https://github.com/Cgboal/exclude-cdn)
 
 Active Content Discovery tool - [feroxbuster](https://github.com/epi052/feroxbuster)
     ++ [Documentation](https://epi052.github.io/feroxbuster-docs/docs/)
 
-[fff](https://github.com/tomnomnom/fff)
+Fetching URL's quickly - [fff](https://github.com/tomnomnom/fff)
 
-[findomain](https://github.com/Findomain/Findomain)
+Find domains quickly - [findomain](https://github.com/Findomain/Findomain)
 
-[getJS](https://github.com/003random/getJS)
+Retrieve data about and for Javascript files - [getJS](https://github.com/003random/getJS)
 
 Directory / dns / s3 / gcs / vhost / fuzz / tftp brute force - [gobuster](https://github.com/OJ/gobuster)
 
