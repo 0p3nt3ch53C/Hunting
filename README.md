@@ -459,7 +459,7 @@ Mining URLs from dark corners of Web Archives - [ParamSpider](https://github.com
 
 [responder.py](https://github.com/lgandx/Responder)
 
-[RustScan](https://github.com/RustScan/RustScan)
+Network scan with rust - [RustScan](https://github.com/RustScan/RustScan)
 
 [scrying](https://github.com/nccgroup/scrying)
 
