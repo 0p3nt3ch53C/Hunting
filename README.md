@@ -252,7 +252,7 @@
 
 [ppmap](https://github.com/kleiton0x00/ppmap)
 
-#### Active SSRF / External Interaction
+#### Active SSRF / External Interaction / Callback
 
 [interactsh](https://github.com/projectdiscovery/interactsh)
 
@@ -385,7 +385,7 @@ Pentesting - Command Injection - [commix](https://github.com/commixproject/commi
 
 Concurrent requests in CURL - [concurl](https://github.com/tomnomnom/concurl)
 
-[CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec)
+Password Cracking - [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec)
  ++ Alternative [NexExec](https://github.com/Pennyw0rth/NetExec)
 
 403 Finder and Brute Forcer - [dirdar](https://github.com/M4DM0e/DirDar)
@@ -419,7 +419,7 @@ Retrieve data about and for Javascript files - [getJS](https://github.com/003ran
 
 Directory / dns / s3 / gcs / vhost / fuzz / tftp brute force - [gobuster](https://github.com/OJ/gobuster)
 
-[gorgo](https://github.com/pry0cc/gorgo)
+Multi-threaded password sprayer - [gorgo](https://github.com/pry0cc/gorgo)
 
 Fast Web Spider written in Go - [gospider](https://github.com/jaeles-project/gospider)
 
@@ -429,9 +429,9 @@ JSON grepping tool - [gron](https://github.com/tomnomnom/gron)
 
 GO Web crawler for gathering URL's and js file locations - [hakrawler](https://github.com/hakluke/hakrawler)
 
-[httprobe](https://github.com/tomnomnom/httprobe)
+Take a list of domains and probe for working http/https - [httprobe](https://github.com/tomnomnom/httprobe)
 
-[interactsh-web](https://github.com/projectdiscovery/interactsh-web)
+Web server (self hosted and SaaS) for interactsh - [interactsh-web](https://github.com/projectdiscovery/interactsh-web)
 
 [Interlace](https://github.com/codingo/Interlace)
 
