@@ -465,7 +465,7 @@ Network scan with rust - [RustScan](https://github.com/RustScan/RustScan)
 
 [shuffledns](https://github.com/projectdiscovery/shuffledns)
 
-[TheFTFuzzer](https://github.com/lc/theftfuzzer)
+CORS Fuzzer - [TheFTFuzzer](https://github.com/lc/theftfuzzer)
 
 Bruteforceing Passwords - [thc-hydra](https://github.com/vanhauser-thc/thc-hydra)
 
