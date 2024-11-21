@@ -463,7 +463,7 @@ Network scan with rust - [RustScan](https://github.com/RustScan/RustScan)
 
 [scrying](https://github.com/nccgroup/scrying)
 
-[shuffledns](https://github.com/projectdiscovery/shuffledns)
+Bruteforce Subdmomains and wildcards - [shuffledns](https://github.com/projectdiscovery/shuffledns)
 
 CORS Fuzzer - [TheFTFuzzer](https://github.com/lc/theftfuzzer)
 
