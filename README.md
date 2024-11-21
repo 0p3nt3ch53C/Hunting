@@ -335,6 +335,12 @@
 
 [ERLPopper](https://github.com/maikthulhu/ERLPopper)
 
+[Interlace](https://github.com/codingo/Interlace)
+
+### Unfinished
+
+[kxss](https://github.com/tomnomnom/hacks/tree/6fd7870f20ab4ea96781f20d74fff714e0354046/kxss)
+
 ### Depricated
 
 [subjs](https://github.com/lc/subjs)
@@ -433,19 +439,15 @@ Take a list of domains and probe for working http/https - [httprobe](https://git
 
 Web server (self hosted and SaaS) for interactsh - [interactsh-web](https://github.com/projectdiscovery/interactsh-web)
 
-[Interlace](https://github.com/codingo/Interlace)
+Build Custom Web Application Scanner - [jaeles](https://github.com/jaeles-project/jaeles)
 
-[jaeles](https://github.com/jaeles-project/jaeles)
+Content discovery and bruteforcing routes for modern applications - [kiterunner](https://github.com/assetnote/kiterunner)
 
-[kiterunner](https://github.com/assetnote/kiterunner)
-
-[kxss](https://github.com/tomnomnom/hacks/tree/6fd7870f20ab4ea96781f20d74fff714e0354046/kxss)
-
-[leaky-paths](https://github.com/ayoubfathi/leaky-paths)
+Web content discovery and juicy API's - [leaky-paths](https://github.com/ayoubfathi/leaky-paths)
 
 Massive IP Portscanner - [masscan](https://github.com/robertdavidgraham/masscan)
 
-[medusa](https://github.com/jmk-foofus/medusa)
+Login Bruteforcer - [medusa](https://github.com/jmk-foofus/medusa)
 
 Fetching lots of URL's - [meg](https://github.com/tomnomnom/meg)
 
@@ -455,13 +457,13 @@ A fuzzer for detecting open redirect vulns - [OpenRedireX](https://github.com/de
 
 Mining URLs from dark corners of Web Archives - [ParamSpider](https://github.com/devanshbatham/ParamSpider)
 
-[qsreplace](https://github.com/tomnomnom/qsreplace)
+parameter wordlist creation based off url - [qsreplace](https://github.com/tomnomnom/qsreplace)
 
-[responder.py](https://github.com/lgandx/Responder)
+IPv6/IPv4 LLMNR/NBT-NS/mDNS Poisoner and NTLMv1/2 Relay - [responder.py](https://github.com/lgandx/Responder)
 
 Network scan with rust - [RustScan](https://github.com/RustScan/RustScan)
 
-[scrying](https://github.com/nccgroup/scrying)
+RDP, Web, and VNC screenshots - [scrying](https://github.com/nccgroup/scrying)
 
 Bruteforce Subdmomains and wildcards - [shuffledns](https://github.com/projectdiscovery/shuffledns)
 
