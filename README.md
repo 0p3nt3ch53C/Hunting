@@ -256,6 +256,8 @@
 
 [interactsh](https://github.com/projectdiscovery/interactsh)
 
+[burpsuite-keygen](https://github.com/Xero-Zero/Burp-Suite)
+
 ### Requests / DNS / SSTI / Fuzzing / LFI Checks / Param Fuzzing
 
 [ffuf](https://github.com/ffuf/ffuf)
