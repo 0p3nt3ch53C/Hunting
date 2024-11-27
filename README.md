@@ -67,9 +67,13 @@
 
 [Sublist3r](https://github.com/aboul3la/Sublist3r)
 
+[dnscan](https://github.com/rbsec/dnscan)
+
 ###### Subdomain Takeover Finder
 
 [dnstake](https://github.com/pwnesia/dnstake)
+
+[subzy](https://github.com/PentestPad/subzy)
 
 ####### Reference 
 
@@ -321,6 +325,10 @@
 [JSA](https://github.com/w9w/JSA)
 ++ URL Extraction
 
+[relative-url-extractor](https://github.com/jobertabma/relative-url-extractor)
+
+
+
 [LinkFinder](https://github.com/GerbenJavado/LinkFinder)
 
 [getjswords](https://github.com/m4ll0k/BBTz)
@@ -426,6 +434,8 @@ Find domains quickly - [findomain](https://github.com/Findomain/Findomain)
 Retrieve data about and for Javascript files - [getJS](https://github.com/003random/getJS)
 
 Directory / dns / s3 / gcs / vhost / fuzz / tftp brute force - [gobuster](https://github.com/OJ/gobuster)
+
+Directory Discovery - [dirsearch](https://github.com/maurosoria/dirsearch)
 
 Multi-threaded password sprayer - [gorgo](https://github.com/pry0cc/gorgo)
 
