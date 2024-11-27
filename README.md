@@ -222,6 +222,9 @@
 
 [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
 
+[Assetnote-Wordlists](https://wordlists.assetnote.io/)
+    ++ Autoupdated
+
 [all-by-jhaddix](https://gist.githubusercontent.com/jhaddix/86a06c5dc309d08580a018c66354a056/raw/96f4e51d96b2203f19f6381c8c545b278eaa0837/all.txt)
 
 #### DNS Specific
@@ -320,6 +323,8 @@
 
 ## Other
 
+Chrome + Wappalyzer
+
 ### Probably Duplicative of what this does:
 
 [reconness](https://github.com/reconness/reconness)
@@ -381,6 +386,10 @@
 
 [jok3r](https://github.com/koutto/jok3r)
 
+[subbrute](https://github.com/TheRook/subbrute)
+
+[commonspeak](https://github.com/pentester-io/commonspeak)
+
 ### Cloud / S3 Bucket Scanner
 
 [S3Scanner](https://github.com/sa7mon/S3Scanner)
@@ -394,6 +403,8 @@
 [aquatone](https://github.com/michenriksen/aquatone)
 
 [ipcdn](https://github.com/six2dez/ipcdn)
+
+[parameth](https://github.com/maK-/parameth)
 
 ### Attempts to cover everything in one tool (all in one, AIO)
 
@@ -422,6 +433,8 @@ Diff for new items - [anew](https://github.com/tomnomnom/anew)
 Burl (not anti-burl) - [burl](https://github.com/tomnomnom/burl)
 
 HTTP Parameter Discovery - [arjun](https://github.com/s0md3v/Arjun)
+
+DIscovering other hosts that are on the same IP - [virtual-host-discovery](https://github.com/jobertabma/virtual-host-discovery)
 
 Community Nuclei Templates - [cent](https://github.com/xm1k3/cent)
 
@@ -502,6 +515,8 @@ A fuzzer for detecting open redirect vulns - [OpenRedireX](https://github.com/de
 Mining URLs from dark corners of Web Archives - [ParamSpider](https://github.com/devanshbatham/ParamSpider)
 
 parameter wordlist creation based off url - [qsreplace](https://github.com/tomnomnom/qsreplace)
+
+Preset Parameter Wordlist from Portswigger - [backslash-powered-scanner-params](https://github.com/PortSwigger/backslash-powered-scanner/blob/master/resources/params)
 
 IPv6/IPv4 LLMNR/NBT-NS/mDNS Poisoner and NTLMv1/2 Relay - [responder.py](https://github.com/lgandx/Responder)
 
