@@ -355,6 +355,8 @@
 
 [subjs](https://github.com/lc/subjs)
 
+[jok3r](https://github.com/koutto/jok3r)
+
 ### Cloud / S3 Bucket Scanner
 
 [S3Scanner](https://github.com/sa7mon/S3Scanner)
@@ -492,3 +494,6 @@ nmap alternative - [unimap](https://github.com/Edu4rdSHL/unimap)
 Search Javascript Files for API Keys - [Mantra](https://github.com/brosck/mantra)
 
 Secrets Scanning by Checkmarx - [2ms](https://github.com/checkmarx/2ms/)
+
+
+
