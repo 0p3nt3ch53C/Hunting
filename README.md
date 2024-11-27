@@ -218,6 +218,12 @@
 
 [SecLists](https://github.com/danielmiessler/SecLists)
 
+[Pwdb-Public](https://github.com/ignis-sec/Pwdb-Public)
+
+[PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
+
+[all-by-jhaddix](https://gist.githubusercontent.com/jhaddix/86a06c5dc309d08580a018c66354a056/raw/96f4e51d96b2203f19f6381c8c545b278eaa0837/all.txt)
+
 #### DNS Specific
 
 [gotator](https://github.com/Josue87/gotator)
@@ -241,6 +247,8 @@
 ##### CORS 
 
 [TheftFuzzer](https://github.com/lc/theftfuzzer)
+
+[CORScanner](https://github.com/chenjj/CORScanner)
 
 #### CMS Detection
 
@@ -312,6 +320,10 @@
 
 ## Other
 
+### Probably Duplicative of what this does:
+
+[reconness](https://github.com/reconness/reconness)
+
 ### IP Lookup
 
 [whoisxmlapi API](https://www.whoisxmlapi.com/)
@@ -331,11 +343,19 @@
 
 [relative-url-extractor](https://github.com/jobertabma/relative-url-extractor)
 
-
-
 [LinkFinder](https://github.com/GerbenJavado/LinkFinder)
 
 [getjswords](https://github.com/m4ll0k/BBTz)
+
+#### Burpsuite Alternatives
+
+[zap](https://github.com/zaproxy/zaproxy)
+
+[IronWASP](https://github.com/swatv3nub/IronWASP)
+
+[IronWASP-Source](https://github.com/Lavakumar/IronWASP)
+
+[PolarProxy](https://github.com/Netresec/PolarProxy)
 
 #### Url Extracting
 
@@ -380,6 +400,12 @@
 [smartrecon](https://github.com/kh4sh3i/smartrecon)
 
 [osmedeus](https://github.com/j3ssie/osmedeus)
+
+[osmedeus-core](https://github.com/osmedeus/osmedeus-base)
+
+[sn1per](https://github.com/1N3/Sn1per)
+
+
 
 All in one tool for XSS, Open Redirects, SSRF, CRLF, LFI, SQLi, SSL tests, SSTI, DNS zone transfers - [reconftw](https://github.com/six2dez/reconftw)
 
