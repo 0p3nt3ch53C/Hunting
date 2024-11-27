@@ -91,6 +91,10 @@
 
 [httpx](https://github.com/projectdiscovery/httpx)
 
+###### HTTP Request Smuggling
+
+[smuggler](https://github.com/defparam/smuggler)
+
 ###### Open Redirect Fuzzing 
 
 [Oralyzer](https://github.com/r0075h3ll/Oralyzer)
