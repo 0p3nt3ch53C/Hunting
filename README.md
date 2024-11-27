@@ -75,6 +75,8 @@
 
 [subzy](https://github.com/PentestPad/subzy)
 
+[second-order](https://github.com/mhmdiaa/second-order)
+
 ####### Reference 
 
 [can-i-take-over-xyz](https://github.com/EdOverflow/can-i-take-over-xyz)
@@ -216,16 +218,17 @@
 
 [assetnote-wordlists](https://wordlists.assetnote.io/)
 
+[Scans.io-Data-Research-Repository](https://scans.io/)
+
 [SecLists](https://github.com/danielmiessler/SecLists)
 
 [Pwdb-Public](https://github.com/ignis-sec/Pwdb-Public)
 
 [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
 
-[Assetnote-Wordlists](https://wordlists.assetnote.io/)
-    ++ Autoupdated
+[all-by-jh](https://gist.githubusercontent.com/jhaddix/86a06c5dc309d08580a018c66354a056/raw/96f4e51d96b2203f19f6381c8c545b278eaa0837/all.txt)
 
-[all-by-jhaddix](https://gist.githubusercontent.com/jhaddix/86a06c5dc309d08580a018c66354a056/raw/96f4e51d96b2203f19f6381c8c545b278eaa0837/all.txt)
+[fuzz-by-bm](https://raw.githubusercontent.com/Bo0oM/fuzz.txt/refs/heads/master/fuzz.txt)
 
 #### DNS Specific
 
@@ -311,6 +314,10 @@
 
 [dalfox](https://github.com/hahwul/dalfox) (formerly [gxss](https://github.com/KathanP19/Gxss))
 
+[bXSS](https://github.com/LewisArdern/bXSS)
+
+[ezXSS](https://github.com/ssl/ezXSS)
+
 ## Carrage Return Line Feed (CRLF) Fuzzing
 
 [crlfuzz](https://github.com/dwisiswant0/crlfuzz)
@@ -390,6 +397,8 @@ Chrome + Wappalyzer
 
 [commonspeak](https://github.com/pentester-io/commonspeak)
 
+[knock](https://github.com/santiko/KnockPy)
+
 ### Cloud / S3 Bucket Scanner
 
 [S3Scanner](https://github.com/sa7mon/S3Scanner)
@@ -416,13 +425,17 @@ Chrome + Wappalyzer
 
 [sn1per](https://github.com/1N3/Sn1per)
 
-
+[the-art-of-subdomain-enumeration](https://github.com/appsecco/the-art-of-subdomain-enumeration)
 
 All in one tool for XSS, Open Redirects, SSRF, CRLF, LFI, SQLi, SSL tests, SSTI, DNS zone transfers - [reconftw](https://github.com/six2dez/reconftw)
 
 ### Irrelevant
 
 [proxychains-ng](https://github.com/rofl0r/proxychains-ng)
+
+### Potentially already covered by other tools
+
+[vhost-brute](https://github.com/gwen001/vhost-brute)
 
 ### Formatting
 
@@ -459,7 +472,13 @@ Wordlist Generator for DNS - [dnsgen](https://github.com/AlephNullSK/dnsgen)
 
 Wordlist Generator for DNS with resolving - [altdns](https://github.com/infosec-au/altdns)
 
+Classic Recon framework - [recon-ng](https://github.com/lanmaster53/recon-ng)
+
 Multiple DNS Activities - [dnsrecon](https://github.com/darkoperator/dnsrecon)
+
+Default NS base Lazy Recon - [lazyrecon](https://github.com/nahamsec/lazyrecon)
+
+JH version of Lazy Recon - [jh-lazyrecon](https://github.com/jhaddix/lazyrecon)
 
 Using different dns resolvers by trickest - [publicresolvers](https://github.com/root4loot/publicresolvers)
 
@@ -473,6 +492,8 @@ Active Content Discovery tool - [feroxbuster](https://github.com/epi052/feroxbus
     ++ [Documentation](https://epi052.github.io/feroxbuster-docs/docs/)
 
 Fetching URL's quickly - [fff](https://github.com/tomnomnom/fff)
+
+Seperate URL parts - [unfurl](https://github.com/tomnomnom/unfurl)
 
 Find domains quickly - [findomain](https://github.com/Findomain/Findomain)
 
