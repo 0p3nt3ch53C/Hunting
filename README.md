@@ -92,6 +92,7 @@
 ###### HTTP Probing
 
 [httpx](https://github.com/projectdiscovery/httpx)
+  ++ Note: needs standalone shell.
 
 ###### HTTP Request Smuggling
 
