@@ -37,6 +37,10 @@
 
 [crt](https://github.com/cemulus/crt)
 
+#### Active Check
+
+Connect to remote host and scrape certificates - [cero](https://github.com/glebarez/cero)
+
 #### TLS Cipher Discovery
 
 [tlsx](https://github.com/projectdiscovery/tlsx)
@@ -451,8 +455,6 @@ HTTP Parameter Discovery - [arjun](https://github.com/s0md3v/Arjun)
 DIscovering other hosts that are on the same IP - [virtual-host-discovery](https://github.com/jobertabma/virtual-host-discovery)
 
 Community Nuclei Templates - [cent](https://github.com/xm1k3/cent)
-
-Connect to remote host and scrape certificates - [cero](https://github.com/glebarez/cero)
 
 Active DNS Finding (requires project discovery API Key) - [chaos-client](https://github.com/projectdiscovery/chaos-client)
 
