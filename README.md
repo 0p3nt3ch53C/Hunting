@@ -10,7 +10,7 @@ TBD
 
 ### Assets (multiple below)
 
-[amass](https://github.com/owasp-amass/amass)
++ [amass](https://github.com/owasp-amass/amass)
 
 [assetfinder](https://github.com/tomnomnom/assetfinder)
 
@@ -37,13 +37,13 @@ TBD
 
 ### Certificates
 
-[crt.sh](https://crt.sh/)
++ [crt.sh](https://crt.sh/)
 
 [crt](https://github.com/cemulus/crt)
 
 #### Active Check
 
-Connect to remote host and scrape certificates - [cero](https://github.com/glebarez/cero)
++ [cero](https://github.com/glebarez/cero)
 
 #### TLS Cipher Discovery
 
@@ -73,7 +73,7 @@ Connect to remote host and scrape certificates - [cero](https://github.com/gleba
 
 [dnscheck](https://github.com/six2dez/ipcdn) (was: [ipcdn](https://github.com/six2dez/ipcdn))
 
-[Sublist3r](https://github.com/aboul3la/Sublist3r)
++ [Sublist3r](https://github.com/aboul3la/Sublist3r)
 
 [dnscan](https://github.com/rbsec/dnscan)
 
@@ -570,4 +570,17 @@ Search Javascript Files for API Keys - [Mantra](https://github.com/brosck/mantra
 Secrets Scanning by Checkmarx - [2ms](https://github.com/checkmarx/2ms/)
 
 
+
+# Integrated 
+## DNS
+### Active 
+Connect to remote host and scrape certificates - [cero](https://github.com/glebarez/cero)
+[Sublist3r](https://github.com/aboul3la/Sublist3r)
+### Passive
+[subfinder](https://github.com/projectdiscovery/subfinder)
+[crt.sh](https://crt.sh/)
+
+# WIP
+### Active or Passive
+[amass](https://github.com/owasp-amass/amass)
 
