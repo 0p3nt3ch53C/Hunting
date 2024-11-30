@@ -133,6 +133,7 @@ Connect to remote host and scrape certificates - [cero](https://github.com/gleba
 ##### Passive
 
 [whoxy](https://www.whoxy.com/)
+  ++ API ($$$)
 
 ##### Active
 
