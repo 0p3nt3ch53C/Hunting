@@ -240,6 +240,8 @@ TBD
 
 [fuzz-by-bm](https://raw.githubusercontent.com/Bo0oM/fuzz.txt/refs/heads/master/fuzz.txt)
 
+[fuzz-example-wordlist](https://github.com/thehlopster/hfuzz)
+
 #### DNS Specific
 
 [gotator](https://github.com/Josue87/gotator)
@@ -293,6 +295,8 @@ TBD
 ### Requests / DNS / SSTI / Fuzzing / LFI Checks / Param Fuzzing
 
 [ffuf](https://github.com/ffuf/ffuf)
+
+[oss-fuzz](https://github.com/google/oss-fuzz)
 
 ## Network Scanning
 
