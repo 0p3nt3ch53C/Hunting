@@ -1,5 +1,7 @@
 # Hunting
 
+Hunting links based on public availability for tools (this repo does not include tools that are private.) 
+
 ## Scope Parsing
 
 TBD
