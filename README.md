@@ -12,7 +12,7 @@ TBD
 
 + [amass](https://github.com/owasp-amass/amass)
 
-[assetfinder](https://github.com/tomnomnom/assetfinder)
++ [assetfinder](https://github.com/tomnomnom/assetfinder)
 
 ### Web Spidering
 
@@ -578,13 +578,12 @@ Secrets Scanning by Checkmarx - [2ms](https://github.com/checkmarx/2ms/)
 # Integrated 
 ## DNS
 ### Active 
-Connect to remote host and scrape certificates - [cero](https://github.com/glebarez/cero)
+[cero](https://github.com/glebarez/cero)
 [Sublist3r](https://github.com/aboul3la/Sublist3r)
 ### Passive
 [subfinder](https://github.com/projectdiscovery/subfinder)
 [crt.sh](https://crt.sh/)
-
-# WIP
+[assetfinder](https://github.com/tomnomnom/assetfinder)
 ### Active or Passive
 [amass](https://github.com/owasp-amass/amass)
 
