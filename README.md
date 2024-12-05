@@ -443,6 +443,10 @@ Chrome + Wappalyzer
 
 All in one tool for XSS, Open Redirects, SSRF, CRLF, LFI, SQLi, SSL tests, SSTI, DNS zone transfers - [reconftw](https://github.com/six2dez/reconftw)
 
+### Mobile Security 
+
+[MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
+
 ### Irrelevant
 
 [proxychains-ng](https://github.com/rofl0r/proxychains-ng)
