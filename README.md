@@ -19,6 +19,8 @@ TBD
 [katana](https://github.com/projectdiscovery/katana)
 ++ JS Files, Source Code Scraping, URL Extracting
 
+[whatweb](https://github.com/urbanadventurer/WhatWeb)
+
 ### IOT Search 
 
 [shodan.io](shodan.io)
@@ -446,6 +448,12 @@ All in one tool for XSS, Open Redirects, SSRF, CRLF, LFI, SQLi, SSL tests, SSTI,
 ### Mobile Security 
 
 [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
+
+[Website-Genymotion](https://www.genymotion.com/)
+
+### Alerting
+
+[sublert](https://github.com/yassineaboukir/sublert)
 
 ### Irrelevant
 
