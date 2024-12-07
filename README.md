@@ -103,7 +103,7 @@ TBD
 
 ###### HTTP Probing
 
-[httpx](https://github.com/projectdiscovery/httpx)
++ [httpx](https://github.com/projectdiscovery/httpx)
   ++ Note: needs standalone shell.
 
 ###### HTTP Request Smuggling
@@ -600,4 +600,5 @@ Secrets Scanning by Checkmarx - [2ms](https://github.com/checkmarx/2ms/)
 [assetfinder](https://github.com/tomnomnom/assetfinder)
 ### Active or Passive
 [amass](https://github.com/owasp-amass/amass)
+[httpx](https://github.com/projectdiscovery/httpx)
 
