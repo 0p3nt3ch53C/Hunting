@@ -199,6 +199,8 @@ TBD
 
 [gitleaks](https://github.com/gitleaks/gitleaks)
 
+[2ms](https://github.com/checkmarx/2ms/)
+
 ### Website Misconfiguration
 
 [misconfig-mapper](https://github.com/intigriti/misconfig-mapper)
@@ -584,10 +586,6 @@ Firewall for ubuntu - [ufw](https://wiki.ubuntu.com/UncomplicatedFirewall)
 nmap alternative - [unimap](https://github.com/Edu4rdSHL/unimap)
 
 Search Javascript Files for API Keys - [Mantra](https://github.com/brosck/mantra)
-
-### Secrets Discovery
-
-Secrets Scanning by Checkmarx - [2ms](https://github.com/checkmarx/2ms/)
 
 # Integrated 
 ## DNS
