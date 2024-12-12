@@ -602,6 +602,5 @@ Secrets Scanning by Checkmarx - [2ms](https://github.com/checkmarx/2ms/)
 [amass](https://github.com/owasp-amass/amass)
 [httpx](https://github.com/projectdiscovery/httpx)
 
-
 ## WIP
 [cdncheck](https://github.com/projectdiscovery/cdncheck)
