@@ -605,6 +605,3 @@ Secrets Scanning by Checkmarx - [2ms](https://github.com/checkmarx/2ms/)
 
 ## WIP
 [cdncheck](https://github.com/projectdiscovery/cdncheck)
-
-## TBD
-[waymore](https://github.com/xnl-h4ck3r/waymore)
