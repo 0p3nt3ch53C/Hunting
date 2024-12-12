@@ -585,6 +585,8 @@ nmap alternative - [unimap](https://github.com/Edu4rdSHL/unimap)
 
 Search Javascript Files for API Keys - [Mantra](https://github.com/brosck/mantra)
 
+### Secrets Discovery
+
 Secrets Scanning by Checkmarx - [2ms](https://github.com/checkmarx/2ms/)
 
 # Integrated 
