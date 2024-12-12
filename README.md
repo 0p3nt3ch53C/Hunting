@@ -603,4 +603,4 @@ Secrets Scanning by Checkmarx - [2ms](https://github.com/checkmarx/2ms/)
 [httpx](https://github.com/projectdiscovery/httpx)
 
 ## WIP
-[cdncheck](https://github.com/projectdiscovery/cdncheck)
+[smuggler](https://github.com/defparam/smuggler)
