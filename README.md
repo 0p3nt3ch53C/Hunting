@@ -189,8 +189,7 @@ TBD
 
 [gitdorks_go](https://github.com/damit5/gitdorks_go)
 
-### Secret Discovery
-
+### Secret Discovery (not storage)
 
 #### Github
 
