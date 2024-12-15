@@ -589,6 +589,9 @@ nmap alternative - [unimap](https://github.com/Edu4rdSHL/unimap)
 
 Search Javascript Files for API Keys - [Mantra](https://github.com/brosck/mantra)
 
+# Daily
+[caido](https://caido.io/)
+
 # Integrated 
 ## DNS
 ### Active 
@@ -604,6 +607,8 @@ Search Javascript Files for API Keys - [Mantra](https://github.com/brosck/mantra
 
 ## WIP
 [smuggler](https://github.com/defparam/smuggler)
+
+
 
 
 
