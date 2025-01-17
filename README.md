@@ -608,5 +608,8 @@ Search Javascript Files for API Keys - [Mantra](https://github.com/brosck/mantra
 ## BACKLOG
 [smuggler](https://github.com/defparam/smuggler)
 
+# TBD 
+Include wordlists.
+
 
 
