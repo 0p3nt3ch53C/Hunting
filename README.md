@@ -609,4 +609,4 @@ Search Javascript Files for API Keys - [Mantra](https://github.com/brosck/mantra
 [smuggler](https://github.com/defparam/smuggler)
 
 # TBD 
-Include wordlists.
+Include wordlists from SecLists, Payload All The Things, and Assetnote.
