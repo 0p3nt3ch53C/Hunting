@@ -610,3 +610,8 @@ Search Javascript Files for API Keys - [Mantra](https://github.com/brosck/mantra
 
 # TBD 
 Include wordlists.
+
+
+
+Example script: 
+katana
