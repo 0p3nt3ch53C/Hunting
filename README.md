@@ -605,7 +605,7 @@ Search Javascript Files for API Keys - [Mantra](https://github.com/brosck/mantra
 [amass](https://github.com/owasp-amass/amass)
 [httpx](https://github.com/projectdiscovery/httpx)
 
-## BACKLOG
+## BLOCKED
 [smuggler](https://github.com/defparam/smuggler)
 
 # TBD 
