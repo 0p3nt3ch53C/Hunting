@@ -596,17 +596,26 @@ Search Javascript Files for API Keys - [Mantra](https://github.com/brosck/mantra
 ## DNS
 ### Active 
 [cero](https://github.com/glebarez/cero)
+
 [Sublist3r](https://github.com/aboul3la/Sublist3r)
+
 ### Passive
 [subfinder](https://github.com/projectdiscovery/subfinder)
+
 [crt.sh](https://crt.sh/)
+
 [assetfinder](https://github.com/tomnomnom/assetfinder)
+
 ### Active or Passive
 [amass](https://github.com/owasp-amass/amass)
+
 [httpx](https://github.com/projectdiscovery/httpx)
+
 
 ## BLOCKED
 [smuggler](https://github.com/defparam/smuggler)
+
 Include wordlists from SecLists, Payload All The Things, and Assetnote.
+
 Mobile?
 
