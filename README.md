@@ -3,9 +3,7 @@
 Hunting links based on public availability for tools (this repo does not include tools that are private.) 
 
 ## Scope Parsing
-
 ## Recon and Discovery
-
 ### Assets (multiple below)
 
 + [amass](https://github.com/owasp-amass/amass)
