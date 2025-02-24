@@ -4,8 +4,6 @@ Hunting links based on public availability for tools (this repo does not include
 
 ## Scope Parsing
 
-TBD
-
 ## Recon and Discovery
 
 ### Assets (multiple below)
@@ -612,8 +610,3 @@ Search Javascript Files for API Keys - [Mantra](https://github.com/brosck/mantra
 * [katana](https://github.com/projectdiscovery/katana)
 * Include wordlists from SecLists, Payload All The Things, and Assetnote.
 * Mobile?
-
-
-
-
-
