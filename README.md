@@ -603,11 +603,10 @@ Search Javascript Files for API Keys - [Mantra](https://github.com/brosck/mantra
 * [amass](https://github.com/owasp-amass/amass)
 * [httpx](https://github.com/projectdiscovery/httpx) NOTE: Cannot use VPN.
 
-
 ## PRIORITY
 * [katana](https://github.com/projectdiscovery/katana)
 
-## BLOCKED
+## BACKLOG
 * [smuggler](https://github.com/defparam/smuggler)
 * Include wordlists from SecLists, Payload All The Things, and Assetnote.
 * Mobile?
