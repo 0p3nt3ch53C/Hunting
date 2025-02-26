@@ -609,6 +609,5 @@ Search Javascript Files for API Keys - [Mantra](https://github.com/brosck/mantra
 
 ## BLOCKED
 * [smuggler](https://github.com/defparam/smuggler)
-* [katana](https://github.com/projectdiscovery/katana)
 * Include wordlists from SecLists, Payload All The Things, and Assetnote.
 * Mobile?
