@@ -603,7 +603,7 @@ Search Javascript Files for API Keys - [Mantra](https://github.com/brosck/mantra
 * [amass](https://github.com/owasp-amass/amass)
 * [httpx](https://github.com/projectdiscovery/httpx) NOTE: Cannot use VPN.
 
-## PRIORITY
+## WIP
 * [katana](https://github.com/projectdiscovery/katana)
 
 ## BACKLOG
