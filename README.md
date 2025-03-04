@@ -606,9 +606,9 @@ Search Javascript Files for API Keys - [Mantra](https://github.com/brosck/mantra
 
 ## WORK IN PROGRESS
 * Blending asset discovery process.
-* [katana](https://github.com/projectdiscovery/katana)
 
 ## BACKLOG
+* [katana](https://github.com/projectdiscovery/katana)
 * [smuggler](https://github.com/defparam/smuggler)
 * Include wordlists from SecLists, Payload All The Things, and Assetnote.
 * Mobile?
