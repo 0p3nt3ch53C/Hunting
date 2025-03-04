@@ -605,6 +605,7 @@ Search Javascript Files for API Keys - [Mantra](https://github.com/brosck/mantra
 
 
 ## WORK IN PROGRESS
+* Blending asset discovery process.
 * [katana](https://github.com/projectdiscovery/katana)
 
 ## BACKLOG
